@@ -1,6 +1,6 @@
 # PONG in Python using pygame
 Clone of the classic game made completely using python
-[![Preview](/Screenshot.png)]
+![Preview](/Screenshot.png)
 
 ## Implementation Specifics
 - Ball starts in random direction
